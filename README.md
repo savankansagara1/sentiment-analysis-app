@@ -35,7 +35,7 @@ A machine learning-powered web application that predicts the emotional tone of t
 
 ## 🚀 Live Demo
 
-Try the live application: **[Sentiment Analyzer App](#)**
+Try the live application: **[Sentiment Analyzer App](https://sentimentchecker.streamlit.app/)**
 
 ---
 
